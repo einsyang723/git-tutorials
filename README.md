@@ -1,4 +1,5 @@
-# git-tutorials
+# __git-tutorials__
+
 
 a tutorial for demonstrating git usage and lecturing.
 
@@ -17,4 +18,8 @@ first exercise (stage 1):
 * fresh graduated 
 
 LET ME COMMIT.hahaha
+
+
+discard original codes to comply with the newest version
+
 
